@@ -2,13 +2,13 @@
 
 # General API project
 
-Created as a learning expirence. Can be used as a template. 
+Created as a learning experience. Can be used as a template. 
 
-Project is written in C# ASP.NET 6. 
+The project is written in C# ASP.NET 6. 
 
-Patterns used during development includes UnitOfWork, Repository-Service Pattern (loosely implementet), Generic Repository, Dependency Injection, and others.
+Patterns used during development include UnitOfWork, Repository-Service Pattern (loosely implemented), Generic Repository, Dependency Injection, and others.
 
-Features include but does not limit to EntityFramework, Identity (Registration/Roles/Token-provider), JWT-auth, TOTP-pin, Phone/Mail confirmation (using PIN-code), HTML-Mail templates using razor-engine rendering, Hangfire queue, SMS with Twilio and Email with SMTP.
+Features include, but does not limit to Entity Framework, Identity (Registration/Roles/Token-provider), JWT-auth, TOTP-pin, Phone/Mail confirmation (using PIN-code), HTML-Mail templates using razor-engine rendering, Hangfire queue, SMS with Twilio and Email with SMTP.
 
 ## Screenshots
 
